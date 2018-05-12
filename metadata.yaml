@@ -1,0 +1,39 @@
+_repo: Lynton-and-LynmouthA-Pageant-of-Cliff--amp--Moorland_22765
+_version: 0.1.0
+contributor:
+  illustrator:
+    agent_name: Widgery, F. J. (Frederick John)
+    alias: Widgery, Frederick John
+    birthdate: 1861
+    deathdate: 1942
+    gutenberg_agent_id: '25528'
+    url: http://www.gutenberg.org/2009/agents/25528
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Presland, John
+    aliases:
+    - Skelton, Gladys
+    - Bendit, Gladys Williams
+    birthdate: 1885
+    deathdate: 1975
+    gutenberg_agent_id: '25527'
+    url: http://www.gutenberg.org/2009/agents/25527
+description: ''
+gutenberg_bookshelf: United Kingdom
+gutenberg_issued: '2007-09-25'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '22765'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Lynmouth (England) -- Guidebooks'
+- !lcc 'DA'
+- !lcsh 'Lynton (England) -- Guidebooks'
+title: 'Lynton and Lynmouth: A Pageant of Cliff & Moorland'
+url: http://www.gutenberg.org/ebooks/22765
